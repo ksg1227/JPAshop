@@ -8,8 +8,4 @@ import org.springframework.stereotype.Service;
 @Setter
 public class Hello {
     private String data;
-
-    private String changeTest;
-
-    private String name;
 }
